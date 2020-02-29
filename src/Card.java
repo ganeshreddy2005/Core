@@ -5,5 +5,7 @@ public class Card {
 	//just comment
 
 	private String userAddress;
+	private String userName;
+	private String userPhone;
 
 }
