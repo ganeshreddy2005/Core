@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Today");
         System.out.println("August_17");
         System.out.println("Again changes on August_17");
+        System.out.println("Again changes on August_18");
         try {
             Card card=Card.class.newInstance();
         } catch (InstantiationException e) {
